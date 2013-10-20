@@ -1,1 +1,0 @@
-MsgBox "本程序只能在 Windows 8 正式版中运行！", vbCritical, "Windows 8 激活工具 v1.0"
