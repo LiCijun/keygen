@@ -1,0 +1,2 @@
+支持激活win7、win8、win8.1、win10、office全系列
+可选择只激活office，不影响windows系统激活状态
